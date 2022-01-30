@@ -468,6 +468,8 @@ main .about .about-header .about-title { display: flex; flex-direction: column; 
 
 #posts-label { font-size: 15px; color: #555; text-transform: uppercase; letter-spacing: 0.5px; padding: 10px 0; font-weight: normal; margin: 0; overflow: hidden; transition: width 0.1s; }
 
+a#resume-link {text-decoration: none;}
+
 table th, table td { padding: 8px 13px; border: 1px solid #dfe2e5; }
 
 table th { background-color: #eee; font-family: Raleway; }

@@ -30,9 +30,21 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+remote_theme: samarsault/plainwhite-jekyll
+theme: plainwhite
 theme: minima
 plugins:
   - jekyll-feed
+
+plainwhite:
+  name: Heekyung Kim
+  date_format: "%b %-d, %Y"
+  portfolio_image:  "assets/me.png"
+
+  social_links:
+    github: hkimkim
+    linkedIn: in/heekyung-kim
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

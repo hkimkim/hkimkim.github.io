@@ -4,6 +4,6 @@
 - [ ] Add email 
 - [ ] Transfer old blog posts
 - [ ] Organize Projects
-- [ ] Add projects page
-- [ ] Add blog page
-- [ ] Add misc  
+- [X] Add projects page
+- [X] Add blog page
+- [X] Add misc  

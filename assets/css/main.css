@@ -50,6 +50,8 @@
 /* '' */
 .icon-soundcloud:before { content: '\f348'; }
 
+
+
 /* '' */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
@@ -448,13 +450,15 @@ main .about .about-header .about-title { display: flex; flex-direction: column; 
 
 .post-title { line-height: 1.2em; font-size: 28px; margin-bottom: 10px; }
 
-.posts, .post-container { list-style-type: none; margin: 45px 35px 45px 100px; }
+.posts { list-style-type: none; margin: 45px 35px 45px 100px; }
+
+.post-container { list-style-type: none; margin: 45px 35px 45px 10px; }
 
 @media screen and (max-width: 480px) { .posts, .post-container { margin-left: 20px; margin-right: 20px; } }
 
 @media screen and (max-width: 768px) { .posts, .post-container { padding: 0 !important; margin-top: 0; } }
 
-.post-container { padding-left: 30px; }
+/* .post-container { padding-left: 0px; } */
 
 .post { font-family: "Raleway", "Merriweather", sans-serif; font-weight: 300; color: #222; line-height: 1.6em; }
 

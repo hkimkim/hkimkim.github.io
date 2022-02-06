@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Project Data Crawling: Part I"
+title:  "Data Crawling"
 excerpt: "How I used python web crawlers to scrape user comments of naver and daum news"
 date:   2020-01-18 09:59:02 +0530
 categories: Python Scrapy
 ---
-### How I used python web crawlers to scrape user comments of naver and daum news
 
 #### **Motivation**
 
@@ -28,15 +27,6 @@ For this project, I decided to crawl three websites: 
 
 
 Naver and Daum are both prominent web portals and search engines in Korea. Due to their characteristics, it is abundant with data. I also realized a lot of people searched tutorials on how to crawl data from these websites and thought it would be nice to share my experience crawling data from these websites.
-
-
-I divided this blog post into four parts: 
-
-
-*   [Part I: I will share the motivation and overview of my project. I will also cover the general concept of web crawling and the pros and cons of the popular web crawling python modules.]()
-*   [Part II: I will share what I did to scrape comments of daum news article.]() 
-*   [Part III: I will share what I did to scrape comments of naver news article.]() 
-*   [Part IV: I will share what I did to scrape user reviews of naver movie review.]()
 
 
 #### **Web Scraping vs. Web Crawling**
@@ -107,9 +97,7 @@ Scrapy is a web crawler framework that can crawl, scrape and parse. It also prov
 
 Although the table above makes these modules appear mutually exclusive, they can be used in combination. For example, you can crawl using Scrapy and scrape the data with Beautiful Soup. For my project, I used scrapy as the crawler and python’s json module for scraping.
 
-
-In the [next post](), I will share what I did to scrape comment of daum news article.
-
+Check out my [ github repo](https://github.com/hkimkim/data-crawling){:target="_blank"} with all the codes.
 
 **Reference** :
 

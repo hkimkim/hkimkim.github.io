@@ -3,7 +3,7 @@ layout: post
 title:  "Project Data Crawling: Part II"
 excerpt: "Scraping Daum News Articles"
 date:   2020-01-22 08:13:02 +0530
-categories: web development Flask
+categories: Python Scrapy
 ---
 
 Daum is a prominent web portal and search engine in Korea. Daum also aggregates [news articles](https://media.daum.net/){:target="_blank"} from various publishers and provides a comment function for readers. This comment section was what I wanted to scrape.

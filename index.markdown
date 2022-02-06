@@ -4,5 +4,4 @@
 
 layout: index
 title: about
-permalink: /about
 ---

@@ -43,7 +43,10 @@ plainwhite:
   social_links:
     github: hkimkim
     linkedIn: in/heekyung-kim
+    email: kim.heek@northeasern.edu
   
+  disqus_shortname: personal-website
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

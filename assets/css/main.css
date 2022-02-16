@@ -486,6 +486,14 @@ ul {
     list-style-type: disc;
 }
 
+.language-plaintext {
+    font-size: 12px;
+}
+
+a#email {
+    text-decoration: none;
+}
+
 @media screen and (max-width: 768px) { .about .about-header.condensed { align-items: start; align-self: start; } .about .about-header.condensed .about-title { flex-direction: row; margin-bottom: 10px; } .about .about-header.condensed .about-title img { max-height: 40px; } .about .about-header.condensed .about-title h2 { margin: 0 10px; } .about .about-header.condensed .tagline { font-size: 18px; margin-bottom: 0px; } .about .about-footer.condensed { display: none; } footer.condensed { display: flex; flex-direction: column; align-items: center; margin: 0 40px; border-top: 1px solid #eee; } }
 
 @media screen and (max-width: 768px) and (max-width: 480px) { footer.condensed { margin: 0 20px; } }

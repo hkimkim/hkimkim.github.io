@@ -3,7 +3,7 @@ layout: post
 title:  "Web Development"
 excerpt: "What I learned from web development"
 date:   2019-11-14 07:38:29 +0530
-categories: Web-development Flask
+categories: Web-development Flask HTML/CSS
 ---
 ### Motivation
 
@@ -143,3 +143,6 @@ Backend:
 Web development was something I really wanted to do for a very long time. Struggled a lot at first trying to know "everything", but when I just let go a little of my obsession on trying to do everything "right" and "perfect", and worked with what I could do, I felt content. Although it questioned my patience many times, the feeling of content fueled me to continue on and I eventually arrived at a point I wished myself to be. Although considering the complexity of web development, there are still many things I haven't fully grasped (javascript) and hope to learn in the future, but this has been one of the most fulfilling experiences I've had and I'm really glad I tried.
 
 
+### Update
+- [Jan 2022] I'm finally taking Web development course for my masters program! 
+- [Feb 2022] I built a [web game](https://astro-trash.netlify.app/) using typescript with my friends at Hackbeanpot Hackathon

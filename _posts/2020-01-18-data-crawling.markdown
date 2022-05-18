@@ -97,7 +97,15 @@ Scrapy is a web crawler framework that can crawl, scrape and parse. It also prov
 
 Although the table above makes these modules appear mutually exclusive, they can be used in combination. For example, you can crawl using Scrapy and scrape the data with Beautiful Soup. For my project, I used scrapy as the crawler and python’s json module for scraping.
 
-Check out my [ github repo](https://github.com/hkimkim/data-crawling){:target="_blank"} with all the codes.
+**Project Code**
+
+You can find detailed information and code of each project in the README.md of each github page:
+
+1.  [Daum News Article](https://github.com/hkimkim/data-crawling/tree/master/daum/){:target="_blank"}
+2.  [Naver News Article](https://github.com/hkimkim/data-crawling/tree/master/naver/naver_news_scraper){:target="_blank"}
+3.  [Naver Movie Review](https://github.com/hkimkim/data-crawling/tree/master/naver/naver_movie_review_scraper){:target="_blank"}
+
+Check out my [github repo](https://github.com/hkimkim/data-crawling){:target="_blank"} with all the codes.
 
 **Reference** :
 

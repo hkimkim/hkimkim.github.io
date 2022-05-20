@@ -2,9 +2,9 @@
 layout: default
 ---
 {%- for post in site.posts -%}
-<li>
+<li class="mb-4">
   {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
-  <a class="post-link" href="{{ post.url | relative_url }}">
+  <a class="post-link" style="text-decoration: none; color: black;" href="{{ post.url | relative_url }}">
     <h2 class="post-title">{{ post.title | escape }}</h2>
   </a>
   <div class="post-meta">
@@ -13,7 +13,7 @@ layout: default
       {{ post.date | date: date_format }}
     </div>
     {%- if post.categories.size > 0-%}
-    <ul class="post-categories">
+    <ul class="post-categories mb-1">
       {%- for tag in post.categories -%}
       <li>{{ tag }}</li>
       {%- endfor -%}

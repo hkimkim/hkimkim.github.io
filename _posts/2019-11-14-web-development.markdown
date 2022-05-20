@@ -5,13 +5,13 @@ excerpt: "What I learned from web development"
 date:   2019-11-14 07:38:29 +0530
 categories: Web-development Flask HTML/CSS
 ---
-### Motivation
+#### Motivation
 
 As a kid who spent a lot of time on youtube, I’ve always felt web development was a must-have skill as an internet generation kid (owe it to the founders of the internet to at least know how it worked). That sense of responsibility naturally developed into penchant for websites. From my pre-teen years obsession with piczo to my highschool years tweaking wordpress for a school charity event, I would spend hours and hours on tuning and customizing “websites”. Perfecting it gave me so much thrill.
 
 The interest continued into my college years. But rather than depending on a service platform to generate my vision of a website, I wanted to be independent and self-sufficient.
 
-### Learning
+#### Learning
 
 
 As any skill learning happens these days, I started out reading online tutorial blogs and subscribing to online courses. But contrary to my zeal, I barely managed to finish tutorials and courses, and ended up taking long hiatuses, just to realize the next month that the subscription fee already had been billed.

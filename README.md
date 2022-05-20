@@ -2,6 +2,6 @@
 ### Todo List
 
 - [x] Add email 
-- [ ] Create projects page
+- [X] Create projects page
 - [X] Add projects page
 - [X] Add misc  

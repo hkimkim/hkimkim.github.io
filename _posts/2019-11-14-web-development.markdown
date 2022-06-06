@@ -72,6 +72,7 @@ I played around with the position of the navigation bar and its subsequent desig
 7.  Deploy using [netlify](https://www.youtube.com/watch?v=bjVUqvcCnxM).
 
 
+
 ### Trial 2: static + flask
 
 
@@ -89,6 +90,7 @@ This time I wanted a horizontal navigation bar as it felt more organized. Contra
 3.  List up html and flask route needed for each content.
 4.  Script the design with html and css (bootstrap4).
 5.  Write the code for route in routes.py in flask project directory.
+
 
 ### Trial 3: static + flask + MySql
 
